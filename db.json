@@ -1,18 +1,18 @@
-{"party":[
+{"party":{"excuses":[
 "I have to let go of the Party",
 "Cuz of the party I may run late in work tomorrow",
 " I couldn't come to the party because my parent's wouldn't let me",
 " I couldn't come to the party because I had to fix my tire",
-" I couldn't come to the party because it was so filled up with people and that it's going to be hard for even them to get invited"],
-"family":[
+" I couldn't come to the party because it was so filled up with people and that it's going to be hard for even them to get invited"]},
+"family":{"excuses":[
   "I have work to do at the weekend, sorry family", 
   "I have booked vacation on that date sorry family", 
   "I forgive you Mom for not teaching me who I am in Christ",
   "Because if my mom thinks so poorly of me I must be pretty horrible",
-  "cause I canot be a good daughter Forgive me mom"],
-  "office":[
+  "cause I canot be a good daughter Forgive me mom"]},
+  "office":{"excuses":[
   "I have a doctor's appointment that afternoon sorry college", 
   "I have taken over for John tomorrow sorry college",
   "Excuse me boss ka na because if I make the A $ 130",
   "Oh excuse me boss i thought you were someone else Wisecracking Pug",
-  "excuse me boss i was here for evening brunch with one of my oldest friend we ordered our all time"]}
+  "excuse me boss i was here for evening brunch with one of my oldest friend we ordered our all time"]}}
