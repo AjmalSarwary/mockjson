@@ -14,9 +14,9 @@ export default function MakeExcuse() {
   }
 
   function fetchExcuse(excuse_param) {
-    //randInt in this section is lagging behind the global value
-    //can be shown by outputting on screen and logging comparison
-    //one problematic phenomenon
+    //randInt value in this section is lagging behind the global value
+    //compare rendered output {randInt} and console.log(randInt)
+   
     Axios.get(
       `https://my-json-server.typicode.com/AjmalSarwary/mockjson/${excuse_param}`
     ).then((res) => setGeneratedExcuse(res.data.excuses[randInt]));
